@@ -12,7 +12,7 @@
   "trailingSlash": true,
   "headers": [
     {
-      "source": "/icons.svg",
+      "source": "*/icons.svg",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "source": "/click.ogg",
+      "source": "*/click.ogg",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "source": "/favicon.ico",
+      "source": "*/favicon.ico",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
