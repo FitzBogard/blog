@@ -21,13 +21,13 @@
 
 ## 标签 / Tags
 
-- 以后可能有些乱七八糟的分类
+以后可能有些乱七八糟的分类
 
 - [杂谈](./tags/leisure)
 
 ## 联系我 / Contact Me
 
-- 可能你和我有点共同爱好
+可能你和我有点共同爱好
 
 - [Mail To Fitz](mailto:fcfreedom107@gmail.com)
 - [Fitz@Github](https://github.com/Fitzbogard)
