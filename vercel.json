@@ -1,18 +1,7 @@
 {
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "public"
-      }
-    }
-  ],
-  "cleanUrls": true,
-  "trailingSlash": true,
   "headers": [
     {
-      "source": "*/icons.svg",
+      "source": "/public/icons.svg",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
@@ -21,7 +10,7 @@
       ]
     },
     {
-      "source": "*/click.ogg",
+      "source": "/public/click.ogg",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
@@ -30,7 +19,7 @@
       ]
     },
     {
-      "source": "*/favicon.ico",
+      "source": "/public/favicon.ico",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
