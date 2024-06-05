@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Fitz&#x27;s Blog - leisure</title>
+    <subtitle>My blog</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://fitzbogard.github.io/tags/leisure/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://fitzbogard.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-06-05T00:00:00+00:00</updated>
+    <id>https://fitzbogard.github.io/tags/leisure/atom.xml</id>
+    <entry xml:lang="en">
+        <title>酸甜苦辣皆是人生，生老病死都需承受</title>
+        <published>2024-06-05T00:00:00+00:00</published>
+        <updated>2024-06-05T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fitzbogard.github.io/posts/2024-06-05/"/>
+        <id>https://fitzbogard.github.io/posts/2024-06-05/</id>
+        
+        <content type="html" xml:base="https://fitzbogard.github.io/posts/2024-06-05/">&lt;p&gt;我不知道我现在是怀着怎样的心情写下这些文字。但我知道，未来某一天回溯思绪到这里的时候，我还是会想起此时此刻心里五味杂陈的感觉。&lt;&#x2F;p&gt;
+&lt;p&gt;无可奈何地接受命运的馈赠，有时候是惊喜，有时则是意外。&lt;&#x2F;p&gt;
+&lt;p&gt;我始终觉得，人活在世界上本无任何意义，如果不是思考武装了头脑，清晰了认知，改变了世界，具象化为语言文字，把世界本就存在的公理向各个方向解构延伸，
+那么人就是没有意义的，像世间花草一般，像猫猫狗狗一般，只靠生存本能苟延残喘地活在这颗星球上。&lt;&#x2F;p&gt;
+&lt;p&gt;而思考和情感衍生出体验，有了情感，有了思考，这个世界在人眼面前，才开始变得五彩斑斓，百花齐放，这个时候，人在世界上客观存在，依旧是无任何意义的，
+但在本我主观上来看，就有了意义。&lt;&#x2F;p&gt;
+&lt;p&gt;我们会被治愈、被温暖、被关心、被照顾、被伤害、被安慰、被感动，我们的情感形成我们在人世间的羁绊。有了羁绊，人就再也不能说是生不带来，死不带去了，
+因为你的死亡不再是心脏停止跳动，大脑死亡&lt;br &#x2F;&gt;
+而是被人遗忘。&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;我想做那世间优秀的人的一份子，想要的物质唾手可得，锤炼过的精神被人记得，即使身躯腐化重新成为大地的养料，留下的东西仍然被人津津乐道。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Hello World</title>
+        <published>2024-05-22T00:00:00+00:00</published>
+        <updated>2024-05-22T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fitzbogard.github.io/notes/init/"/>
+        <id>https://fitzbogard.github.io/notes/init/</id>
+        
+        <content type="html" xml:base="https://fitzbogard.github.io/notes/init/">&lt;p&gt;一个 Coder 没有自己的博客, 好像有点说不过去, 但我又是只会写公司里那种 CRUD 需求的菜鸡, 本来打算学一手前端,用 Next.js 搞一手, 无奈前端对我来说实在有点抽象 (笑), 所以从网上搜了一些纯静态页面模板引擎。&lt;&#x2F;p&gt;
+&lt;p&gt;之前用过 Hexo, 正好最近在学 Rust, 搜到一个大佬的博客, 用 Zola 搭建, 主题看着特别舒服 (anemone), 遂直接照抄 Speyll 大佬的主题模板, 只有很少的 js 对我这种菜鸡来说看着还算可以。 &lt;&#x2F;p&gt;
+&lt;p&gt;先是用 Vercel 部署了一版, 结果发现没梯子访问不了 (怒), 然后想到为什么不用 Github Page 呢, 反正只是自娱自乐用, 顺便记录一些遇到过的疑难杂症。 &lt;&#x2F;p&gt;
+&lt;p&gt;虽然有 Notion, Flowus 这些好使的一站式知识库应用, 但是自己的博客看起来就是更顺眼一点, 都是抄的大佬们的, 也没什么太大难度。 &lt;&#x2F;p&gt;
+&lt;p&gt;好像要讲的就这些, 晚安啦。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>初始之风吹起的地方</title>
+        <published>2024-05-22T00:00:00+00:00</published>
+        <updated>2024-05-22T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fitzbogard.github.io/posts/init/"/>
+        <id>https://fitzbogard.github.io/posts/init/</id>
+        
+        <content type="html" xml:base="https://fitzbogard.github.io/posts/init/">&lt;p&gt;我是真的很喜欢中式旧核。&lt;&#x2F;p&gt;
+&lt;p&gt;身为一个 98 年出生, 北方资源型小城市城北城乡结合部里的一个平平无奇的小孩, 千禧年前后的记忆自然是模糊不清的。但我始终记得 03 年家乡那因为重工业煤炭开采灰蒙蒙的天空, 记得遥望远处那庞然大物一样的烟囱在吐息, 记得我在红砖砌成的胡同里, 抬头仰望南边近在咫尺又觉得远在天涯的楼房。&lt;&#x2F;p&gt;
+&lt;p&gt;那时候最多的娱乐活动, 大概是和小伙伴打弹珠 (其实都没拥有过几颗自己的珠子), 拍游戏王的方卡各种动漫的圆卡, 看凤凰卫视星空卫视里永远演到中忍考试就戛然而止的火影忍者, 踩三线摸瞎子打沙包自不用说了, web1.0 时代里, 上网还需要成本, 在虚拟世界里的人们仍然保留着那个年代特有的纯真。 移动互联网的 Web 2.0 还只存在于人们侃侃而谈展望的手机电脑的未来形态里, EDGE 和 GPRS 的网上冲浪还是有钱人家的工资才能负担的娱乐, Java 飞镖的开头动画和大屁股台式电脑上的 4399 成为了绝大多数人虚拟世界的快乐。GTV 里才见过的 Will、3DS&#x2F;NDS 我也未曾想到今天已拥有它们更新世代的更好的续作, QQ 号注册还得用那慢的要命的拨号上网等半天…&lt;&#x2F;p&gt;
+&lt;p&gt;Frutiger Aero 元素充斥在老师的 PPT 课件里, 学校微机机房的桌面上, 梦幻而清爽的感觉似乎映照着所有人对未来的憧憬, 尽管当下经历着贫穷或困苦, 却因为一切都是充满希望的, 回忆起来的时候便对曾经经历的不好的印象都淡化几分。&lt;&#x2F;p&gt;
+&lt;p&gt;有太多的话想说, 但我发现自己好像已经脱离语文这个学科太多年了, 表达能力实在是欠缺Orz…&lt;&#x2F;p&gt;
+&lt;p&gt;今晚就先这样吧。&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2024-05-27&lt;&#x2F;p&gt;
+&lt;p&gt;我又来写小作文了。&lt;&#x2F;p&gt;
+&lt;p&gt;有时抖音或小红书刷到中式旧核的内容，如若思绪随之沉淀，就像漂浮在茶水上的残叶最终沉入杯底一样，大脑仿佛就这样浸泡其中，会有种溺水的感觉。
+会略微喘不上气，深刻的体验到人类的负面情感真的能影响到身体机能这个道理，在我看到别人家的猫娃子去往喵星的时候，我也会有这种情绪，虽然没有那么浓烈，
+大概是因为自己家的猫娃子还好好的，才4岁，我还有很长很长的时光陪伴他们。&lt;&#x2F;p&gt;
+&lt;p&gt;其实在我一周前，写下这篇日记的时候，回忆着儿时的那些事情，也会有一点不能自拔的惆怅，或许成长不是失去某些珍贵之物，而是意识到失去它们，并再也不能失而复得了吧，
+不管是这些记忆，还是父母日渐斑白的双鬓，眉间渐深的沟壑，亦或是生命中有些朋友未曾道别，便再也未能相见，当意识到这些正在发生时，才是真正觉察到自己真的不再是孩子了。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

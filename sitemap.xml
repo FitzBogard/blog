@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://fitzbogard.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://fitzbogard.github.io/notes/</loc>
+    </url>
+    <url>
+        <loc>https://fitzbogard.github.io/notes/init/</loc>
+        <lastmod>2024-05-22</lastmod>
+    </url>
+    <url>
+        <loc>https://fitzbogard.github.io/notes/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://fitzbogard.github.io/posts/</loc>
+    </url>
+    <url>
+        <loc>https://fitzbogard.github.io/posts/2024-06-05/</loc>
+        <lastmod>2024-06-05</lastmod>
+    </url>
+    <url>
+        <loc>https://fitzbogard.github.io/posts/init/</loc>
+        <lastmod>2024-05-22</lastmod>
+    </url>
+    <url>
+        <loc>https://fitzbogard.github.io/posts/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://fitzbogard.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://fitzbogard.github.io/tags/leisure/</loc>
+    </url>
+</urlset>
